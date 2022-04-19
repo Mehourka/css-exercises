@@ -1,0 +1,20 @@
+/* Odd numbers are of class p, even area div*/
+
+.odd{
+    background-color:rgb(231, 151, 151);
+    font-family:"Verdana","DejaVu Sans", sans-serif;
+}
+
+#second{
+    color:rgb(30, 100, 200);
+    font-size:36px;
+}
+.odd.but-cool{
+    font-size: 24px;
+}
+
+#fourth{
+    background-color:hsl(120, 49%, 55%);
+    font-size:24px;
+    font-weight: 700;
+}
